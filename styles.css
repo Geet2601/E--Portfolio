@@ -524,7 +524,7 @@ nav ul a:hover {
 }
 
 .text-side p {
-  color: #6cbdcb;
+  color: #4b8690;
   font-family: Mulish,sans-serif;
   font-size: 1.7rem;
   font-weight: 500;
@@ -829,23 +829,27 @@ nav ul a:hover {
   border-radius: 8px;
 }
 
+
 .links {
-  gap: 1rem;
+  /* gap: 1rem; */
   justify-content: space-evenly;
   margin-top: 3rem
 }
 
-.links,.links a {
+.links,.links a  {
   align-items: center;
-  display: flex
+  display:flex;
 }
 
 .links a {
   color: #d4d4c3;
   font-size: 1.7rem;
   font-weight: 500;
-  margin-left: 8rem;
+  margin-left: 6rem;
   text-decoration: none
+}
+.live {
+  margin-left:-4rem;
 }
 
 .links a i {
