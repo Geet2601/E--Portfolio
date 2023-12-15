@@ -55,11 +55,12 @@ body {
 .mobile-menu {
   cursor: pointer;
   display: none;
-  font-size: 2.3rem
+  font-size: 2.3rem;
+  color:#010918;
 }
 
 .mobile-menu:hover {
-  color: #147efb;
+  color: #010918;
   transition: all .3s
 }
 
