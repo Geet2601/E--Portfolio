@@ -347,7 +347,7 @@ nav ul a:hover {
   -webkit-animation: morph 8s ease-in-out infinite;
   animation: morph 8s ease-in-out infinite;
   background-image: url(img/facehp.jpg);
-  background-position: 50% 22;
+  background-position: 50% 4;
   background-repeat: no-repeat;
   background-size:97%;
   border: 3px solid #ffab24;
@@ -355,7 +355,7 @@ nav ul a:hover {
   height: 34rem;
   position: relative;
   transition: all 1s ease-in-out;
-  width: 33rem;
+  width: 30rem;
 
 }
 
