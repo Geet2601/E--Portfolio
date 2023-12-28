@@ -468,7 +468,7 @@ nav ul a:hover {
   
     .img-side span img {
       animation: rotate 9s linear infinite;
-      width: 17rem;
+      width: 23rem;
     }
   }
 
@@ -578,7 +578,7 @@ nav ul a:hover {
 
 @media (max-width: 1020px) {
   .img-side span img {
-      width:17rem
+      width:23rem
   }
 }
 
